@@ -1,0 +1,9 @@
+body
+{
+    background-color: cyan;
+}
+#myCanvas
+{
+    border-radius: 5px;
+    border-color: blue;
+}
